@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "review_status": "演示配置，上线前必须由医院医务、门诊和信息部门审核",
+  "rules": {
+    "respiratory": {
+      "departments": ["呼吸内科", "中医内科"],
+      "guidance": "科室名称仅为通用示例，请按医院实际门诊设置选择。"
+    },
+    "digestive": {
+      "departments": ["消化内科", "中医内科"],
+      "guidance": "如伴明显呕血、黑便、持续剧烈腹痛或意识异常，应立即急诊。"
+    },
+    "neurology": {
+      "departments": ["神经内科", "中医内科"],
+      "guidance": "突发剧烈头痛或伴肢体无力、言语不清、意识异常时，应立即急诊。"
+    },
+    "sleep": {
+      "departments": ["睡眠医学相关门诊", "中医内科"],
+      "guidance": "具体门诊名称因医院而异，持续心悸、胸痛或呼吸困难时应及时急诊评估。"
+    },
+    "general_internal": {
+      "departments": ["中医内科", "全科医学科"],
+      "guidance": "索引不能判断病因，无法选择时请咨询医院预检分诊人员。"
+    },
+    "ent": {
+      "departments": ["耳鼻咽喉科", "中医耳鼻喉科"],
+      "guidance": "突发听力下降应尽快就医，具体科室按医院设置选择。"
+    },
+    "oral": {
+      "departments": ["口腔科", "中医内科"],
+      "guidance": "如伴呼吸困难、吞咽困难或快速肿胀，应立即急诊。"
+    },
+    "orthopedics": {
+      "departments": ["骨科", "中医骨伤科"],
+      "guidance": "如伴外伤、无法负重、明显红肿热痛或发热，请尽快线下就医。"
+    },
+    "dermatology": {
+      "departments": ["皮肤科", "中医外科"],
+      "guidance": "如皮损迅速扩散或伴高热、意识异常，应立即急诊。"
+    }
+  }
+}

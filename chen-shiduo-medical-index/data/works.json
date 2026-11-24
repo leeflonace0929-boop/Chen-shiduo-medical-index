@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "collection_title": "陈士铎医学全书",
+  "author": "陈士铎",
+  "dynasty": "清",
+  "reference_edition": {
+    "publisher": "山西科学技术出版社",
+    "publication_date": "2012-03",
+    "isbn": "9787537740982",
+    "note": "仅用于核对书目，不表示本仓库复制或再许可该版现代整理内容。"
+  },
+  "works": [
+    {"id": "waijing-weiyan", "title": "外经微言", "juan": "九卷", "index_status": "待整理"},
+    {"id": "mai-jue-chan-wei", "title": "脉诀阐微", "juan": "不分卷", "index_status": "待整理"},
+    {"id": "bencao-xinbian", "title": "本草新编", "juan": "五卷", "index_status": "待整理"},
+    {"id": "shishi-milu", "title": "石室秘录", "juan": "六卷", "index_status": "样例已收录"},
+    {"id": "bianzheng-yuhan", "title": "辨证玉函", "juan": "四卷", "index_status": "待整理"},
+    {"id": "bianzheng-qiwen", "title": "辨证奇闻", "juan": "十五卷", "index_status": "待整理"},
+    {"id": "bianzheng-lu", "title": "辨证录", "juan": "十四卷", "index_status": "样例已收录"},
+    {"id": "dongtian-aozhi", "title": "洞天奥旨", "juan": "十六卷", "index_status": "待整理"}
+  ]
+}

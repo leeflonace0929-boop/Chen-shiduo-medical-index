@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "review_status": "演示规则，上线前必须由医院急诊与医务部门审核",
+  "message": "检测到可能的急症信号。请立即拨打120或前往急诊，不要等待文献检索结果，也不要自行用药。",
+  "rules": [
+    {"id": "consciousness", "keywords": ["意识不清", "昏迷", "叫不醒", "失去意识"]},
+    {"id": "breathing", "keywords": ["呼吸困难", "无法呼吸", "严重气喘", "口唇发紫"]},
+    {"id": "chest", "keywords": ["胸痛", "胸口剧痛", "胸闷伴大汗"]},
+    {"id": "stroke", "keywords": ["中风", "突然口眼歪斜", "突然言语不清", "突发偏瘫", "突然一侧无力"]},
+    {"id": "severe_headache", "keywords": ["突发剧烈头痛", "爆炸样头痛", "此生最严重头痛"]},
+    {"id": "bleeding", "keywords": ["大量呕血", "吐血不止", "大量便血", "大出血"]},
+    {"id": "seizure", "keywords": ["持续抽搐", "抽搐不止"]},
+    {"id": "severe_abdomen", "keywords": ["剧烈腹痛", "腹部剧痛", "腹痛伴意识不清"]},
+    {"id": "anaphylaxis", "keywords": ["过敏性休克", "喉头水肿", "喉咙迅速肿胀"]}
+  ]
+}

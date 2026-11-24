@@ -1,0 +1,160 @@
+{
+  "schema_version": "1.0",
+  "content_type": "篇目与论题词索引，不含诊断、处方或剂量",
+  "entries": [
+    {
+      "id": "ssml-1-zhengyi-jiusou",
+      "work_id": "shishi-milu",
+      "juan": "卷一·礼集",
+      "chapter": "正医法",
+      "topic": "久嗽",
+      "keywords": ["久嗽", "咳嗽", "久咳"],
+      "navigation_ids": ["respiratory"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷一正医法论题"
+    },
+    {
+      "id": "ssml-1-zhengyi-shuixie",
+      "work_id": "shishi-milu",
+      "juan": "卷一·礼集",
+      "chapter": "正医法",
+      "topic": "水泻",
+      "keywords": ["水泻", "腹泻", "泄泻"],
+      "navigation_ids": ["digestive"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷一正医法论题"
+    },
+    {
+      "id": "ssml-1-zhengyi-xueli",
+      "work_id": "shishi-milu",
+      "juan": "卷一·礼集",
+      "chapter": "正医法",
+      "topic": "血痢",
+      "keywords": ["血痢", "痢疾"],
+      "navigation_ids": ["digestive"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷一正医法论题"
+    },
+    {
+      "id": "ssml-1-zhengyi-shuizhong",
+      "work_id": "shishi-milu",
+      "juan": "卷一·礼集",
+      "chapter": "正医法",
+      "topic": "水肿",
+      "keywords": ["水肿", "浮肿"],
+      "navigation_ids": ["general_internal"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷一正医法论题"
+    },
+    {
+      "id": "ssml-1-zhengyi-yaotong",
+      "work_id": "shishi-milu",
+      "juan": "卷一·礼集",
+      "chapter": "正医法",
+      "topic": "腰痛",
+      "keywords": ["腰痛", "腰疼"],
+      "navigation_ids": ["general_internal"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷一正医法论题"
+    },
+    {
+      "id": "ssml-1-zhengyi-bumei",
+      "work_id": "shishi-milu",
+      "juan": "卷一·礼集",
+      "chapter": "正医法",
+      "topic": "怔忡不寐",
+      "keywords": ["怔忡不寐", "不寐", "失眠", "心悸"],
+      "navigation_ids": ["sleep"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷一正医法论题"
+    },
+    {
+      "id": "ssml-2-shangzhi-touteng",
+      "work_id": "shishi-milu",
+      "juan": "卷二·乐集",
+      "chapter": "上治法",
+      "topic": "头疼目痛",
+      "keywords": ["头疼", "头痛"],
+      "navigation_ids": ["neurology"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷二上治法论题"
+    },
+    {
+      "id": "ssml-2-shangzhi-mutong",
+      "work_id": "shishi-milu",
+      "juan": "卷二·乐集",
+      "chapter": "上治法",
+      "topic": "头疼目痛",
+      "keywords": ["目痛", "眼睛痛"],
+      "navigation_ids": ["general_internal"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷二上治法论题"
+    },
+    {
+      "id": "ssml-2-shangzhi-erlong",
+      "work_id": "shishi-milu",
+      "juan": "卷二·乐集",
+      "chapter": "上治法",
+      "topic": "耳聋",
+      "keywords": ["耳聋", "听力下降"],
+      "navigation_ids": ["ent"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷二上治法论题"
+    },
+    {
+      "id": "ssml-2-shangzhi-kouchuang",
+      "work_id": "shishi-milu",
+      "juan": "卷二·乐集",
+      "chapter": "上治法",
+      "topic": "口舌生疮",
+      "keywords": ["口舌生疮", "口腔溃疡", "口疮"],
+      "navigation_ids": ["oral"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷二上治法论题"
+    },
+    {
+      "id": "ssml-2-xiazhi-hexi",
+      "work_id": "shishi-milu",
+      "juan": "卷二·乐集",
+      "chapter": "下治法",
+      "topic": "鹤膝风",
+      "keywords": ["鹤膝风", "膝关节肿痛"],
+      "navigation_ids": ["orthopedics"],
+      "source_url": "https://zh.wikisource.org/wiki/石室秘錄",
+      "verification": "已核对来源页卷二下治法论题"
+    },
+    {
+      "id": "bzl-1-shanghan",
+      "work_id": "bianzheng-lu",
+      "juan": "卷之一",
+      "chapter": "伤寒门",
+      "topic": "伤寒门四十三则",
+      "keywords": ["伤寒"],
+      "navigation_ids": ["general_internal"],
+      "source_url": "https://zh.wikisource.org/wiki/辨證錄",
+      "verification": "已核对来源页卷一门名"
+    },
+    {
+      "id": "bzl-1-zhonghan",
+      "work_id": "bianzheng-lu",
+      "juan": "卷之一",
+      "chapter": "中寒门",
+      "topic": "中寒门七则",
+      "keywords": ["中寒"],
+      "navigation_ids": ["general_internal"],
+      "source_url": "https://zh.wikisource.org/wiki/辨證錄",
+      "verification": "已核对来源页卷一门名"
+    },
+    {
+      "id": "bzl-2-zhongfeng",
+      "work_id": "bianzheng-lu",
+      "juan": "卷之二",
+      "chapter": "中风门",
+      "topic": "中风门二十五则",
+      "keywords": ["中风门"],
+      "navigation_ids": ["neurology"],
+      "source_url": "https://zh.wikisource.org/wiki/辨證錄",
+      "verification": "已核对来源页卷二门名"
+    }
+  ]
+}
